@@ -8,6 +8,8 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.utils.ScreenUtils;
 
+import javax.swing.*;
+
 /** {@link com.badlogic.gdx.ApplicationListener} implementation shared by all platforms. */
 public class Main extends ApplicationAdapter {
     private SpriteBatch batch;
@@ -23,7 +25,7 @@ public class Main extends ApplicationAdapter {
         image = new Texture("libgdx.png");
         image1 = new Texture("bottle.png");
         character = new Sprite(image1);
-        character.setSize(0.1f, 0.1f);
+        character.setScale(0.3f);
     }
     @Override
     public void render() {
@@ -43,8 +45,9 @@ public class Main extends ApplicationAdapter {
         position.y += increment.y;
         ScreenUtils.clear(0.15f, 0.15f, 0.2f, 1f);
         batch.begin();
-        character.setCenterX(Gdx.input.getX());
-        batch.draw(character, Gdx.input.getX(), Gdx.input.getY());
+        character.draw(batch);
+        character.setX(Gdx.input.getX() - image1.getWidth() / 2f);
+        character.setY(800 - Gdx.input.getY() - image1.getHeight() / 2f);
         batch.draw(image, position.x, position.y);
         batch.end();
     }
