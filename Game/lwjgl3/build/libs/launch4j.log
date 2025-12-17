@@ -1,0 +1,34 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\branm\Documents\GitHub\CS2430Game\Game\lwjgl3\build\libs\Game.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\branm\Documents\GitHub\CS2430Game\Game\lwjgl3\build\libs\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\branm\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Users\branm\AppData\Local\Microsoft\WindowsApps;C:\Users\branm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\branm\.dotnet\tools;C:\Users\branm\AppData\Local\Muse Hub\lib;C:\Users\branm\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\branm\AppData\Local\Muse Hub\lib;C:\Program Files\Git\cmd;C:\Users\branm\AppData\Local\Microsoft\WindowsApps;C:\Users\branm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\branm\.dotnet\tools;C:\Users\branm\AppData\Local\Muse Hub\lib;C:\Users\branm\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Users\branm\AppData\Local\Muse Hub\lib\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\branm\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\branm\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\branm\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\branm\AppData\Local\Muse Hub\lib\bin\javaw.exe (not found)
+Check launcher:	C:\Users\branm\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_008 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\Users\branm\Documents\GitHub\CS2430Game\Game\lwjgl3\build\libs\Game.exe"
+Args length:	81/32768 chars
+Exit code:	0
