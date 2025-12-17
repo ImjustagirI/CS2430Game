@@ -1,3 +1,12 @@
 Bottle.png
+altCalc.png
+badcalc.png
+bg.png
+bg1.png
+calc.png
+fullCalc.png
 ircle.png
 libgdx.png
+wallMore.png
+walls.png
+yelIrcle.png
